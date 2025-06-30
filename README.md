@@ -41,7 +41,7 @@ PORT=5000
 MONGODB_URI=mongodb://localhost:27017/wms-db
 JWT_SECRET=your_jwt_secret
 ADMIN_SECRET_KEY=your_admin_secret_key
-
+```
 
 4. Run the server:
 npm start
