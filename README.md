@@ -80,6 +80,10 @@ POST /users/login – Login user
 Use the provided Postman collection to test the API using different endpoints.  
 👉 [Click here to download the collection](https://drive.google.com/file/d/1FQaer7WHkMca_47xCJLCrkm5gWXsRwQA/view?usp=sharing)
 
+📬 **Postman Endpoints screenshots**  
+👉 [Click here to download the collection](https://drive.google.com/file/d/1tWy1uUWjA01dWFpNIaL34UVIOmHbYPQ1/view?usp=sharing)
+
+
 Make sure to include your JWT token in the Authorization header for protected routes:
 Key: Authorization
 Value: Bearer <your_token>
